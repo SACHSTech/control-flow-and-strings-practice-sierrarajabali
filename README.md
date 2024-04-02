@@ -166,12 +166,10 @@ Given a string, take the last character and print a new string with the last cha
 
 
 ### C2EveryNth.java
-
-
-```
 Given a non-empty string and an int N, return the string made starting with character 0, and then every Nth char of the string. So if N is 3, use char 0, 3, 6, ... and so on. N is 1 or more.
 
-Sample Run 1
+#### Sample Run 1
+```
 Miracle
 2
 Mrce
