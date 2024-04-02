@@ -193,20 +193,23 @@ adg
 ```
 
 ### C3MiddleAbc.java
-
-
-```
 Given a string, does "abc" appear in the middle of the string? To define middle, we'll say that the number of characters to the left and right of the "abc" must differ by at most one.
 
-Sample Run 1
+
+#### Sample Run 1
+```
 AAabcBB
 true
+```
 
-Sample Run 2
+#### Sample Run 2
+```
 AabcBB
 true
+```
 
-Sample Run 3
+#### Sample Run 3
+```
 AabcBBB
 false
 ```
